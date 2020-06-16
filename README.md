@@ -73,7 +73,7 @@ Por fim, baixe o aplicativo do Expo em seu celular.
 ## Como ficou <a name = "usage"></a>
 
 <h1 align="center">
-    <img alt="Be the Hero" src="./src/assets/banner.jpeg?raw=true"  width="600px"/>
+    <img alt="Be the Hero" src="./src/assets/banner.jpeg?raw=true"  width="400px"/>
 </h1>
 
 ## Licença <a name="license"></a>
