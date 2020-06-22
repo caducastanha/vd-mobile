@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" >
-  Uma aplicação onde você adiciona um album de fotos com perguntas sobre o relacionamento para seu amor responder.
+  Uma aplicação onde você adiciona um album de fotos <br \> com perguntas sobre o relacionamento para seu amor responder.
 </h3>
 
 <p align="center">
